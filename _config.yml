@@ -1,7 +1,7 @@
 # Site Settings
 title: My Resume
 url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/resume' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
@@ -15,7 +15,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 #Profile information
 name: Grant T. Aguinaldo
-tagline: Full Stack Developer
+tagline: Data Analyst
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -23,7 +23,7 @@ commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis d
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: hello@webjeda.com
+email: grant.aguinaldo@enveraconsulting.com
 phone: 1+ 415 203 0520
 website: grantaguinaldo.com #do not add http://
 linkedin: grantaguinaldo
