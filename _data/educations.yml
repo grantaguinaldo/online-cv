@@ -1,7 +1,6 @@
 - education:
   degree: MS in Engineering
   university: California State University, Long Beach
-  time: 2011 - 2012
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -9,7 +8,6 @@
 - education:
   degree: MS in Biochemistry
   university: University of Nevada, Las Vegas
-  time: 2007 - 2011
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -17,7 +15,6 @@
 - education:
   degree: BA in Chemistry
   university: University of Nevada, Las Vegas
-  time: 2007 - 2011
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
