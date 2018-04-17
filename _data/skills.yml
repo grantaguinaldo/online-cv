@@ -1,18 +1,18 @@
 - skill:
-  name: Python
+  name: Python/Pandas
   level: 95%
 - skill:
-  name: Javascript
-  level: 60%
-- skill:
-  name: Flask
-  level: 85%
-- skill:
-  name: HTML/CSS/Bootstrap
+  name: SQL
   level: 70%
 - skill:
-  name: Webscraping
+  name: Excel
   level: 85%
 - skill:
-  name: SQL
-  level: 80%
+  name: Written/Verbal Communication
+  level: 100%
+- skill:
+  name: Data Analysis
+  level: 85%
+- skill:
+  name: Project Management
+  level: 95%
