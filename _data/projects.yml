@@ -2,43 +2,43 @@ intro: "This is a list of all of the data-related, programming and/or product-im
 projects:
   - project:
     title: Extracting Insights From Kickstarter Data
-    link: "#"
+    link: "bit.ly/gta-771"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Analyzing Nearly 1MM Rows of Data Using Excel VBA
-    link: "#"
+    link: "bit.ly/gta-772"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Data Analysis Using Pure Python
-    link: "#"
+    link: "bit.ly/gta-773"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Data Analysis Using Pandas & Python
-    link: "#"
+    link: "bit.ly/gta-774"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Analysis of Ride Sharing Data
-    link: "#"
+    link: "bit.ly/gta-775"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Charting Global Weather Patterns From Data Obtained from an API
-    link: "#"
+    link: "bit.ly/gta-776"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Using Python To Analyze Sentiment Of Twitter Feeds
-    link: "#"
+    link: "bit.ly/gta-777"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Extracting Data From A SQL Database
-    link: "#"
+    link: "bit.ly/gta-778"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: SQL/Flask Data Integration Project
-    link: "#"
+    link: "bit.ly/gta-779"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Project Mars
-    link: "#"
+    link: "bit.ly/gta-780"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Interactive Dashboard of UFO Data
