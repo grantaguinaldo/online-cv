@@ -1,4 +1,4 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "This is a list of all of the data-related, programming and/or product-improvement projects that I have completed.  I am actively working on multiple projects at once and will add them to this list when I am done."
 projects:
   - project:
     title: Extracting Insights From Kickstarter Data
