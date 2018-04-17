@@ -1,82 +1,83 @@
 intro: "This is a list of all of the data-related, programming and/or product-improvement projects that I have completed.  I am actively working on multiple projects at once and will add them to this list when I am done."
 projects:
   - project:
+    title: "K-Means Clustering of 3,500+ Violations Issued by the South Coast Air Quality Management District (SCAQMD)"
+    link: "http://bit.ly/2H7SXna"
+    tagline: "SK Learn // Python // Pandas // Jupyter Notebook // Matplotlib/Seaborn"
+  - project:
     title: Extracting Insights From Kickstarter Data
     link: "http://bit.ly/gta-771"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    tagline: "Excel"
   - project:
     title: Analyzing Nearly 1MM Rows of Data Using Excel VBA
-    link: "bit.ly/gta-772"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-772"
+    tagline: "Excel // Excel VBA"
   - project:
     title: Data Analysis Using Pure Python
-    link: "bit.ly/gta-773"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-773"
+    tagline: "Python"
   - project:
     title: Data Analysis Using Pandas & Python
-    link: "bit.ly/gta-774"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-774"
+    tagline: "Panda // Python"
   - project:
     title: Analysis of Ride Sharing Data
-    link: "bit.ly/gta-775"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-775"
+    tagline: "Pandas // Python // Matplotlib/Seaborn"
   - project:
     title: Charting Global Weather Patterns From Data Obtained from an API
-    link: "bit.ly/gta-776"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-776"
+    tagline: "Python // Pandas // API Calls"
   - project:
     title: Using Python To Analyze Sentiment Of Twitter Feeds
-    link: "bit.ly/gta-777"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-777"
+    tagline: "Python // Pandas // Vader"
   - project:
     title: Extracting Data From A SQL Database
-    link: "bit.ly/gta-778"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-778"
+    tagline: "SQL // MySQL Workbench // Sequal Pro"
   - project:
     title: SQL/Flask Data Integration Project
-    link: "bit.ly/gta-779"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-779"
+    tagline: "Flask // SQL Alchemy // SQL // Pandas // Python // Matplotlib/Seaborn"
   - project:
     title: Project Mars
-    link: "bit.ly/gta-780"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-781"
+    tagline: "Beautiful Soup // Mongo DB // Flask // Python // Pandas"
   - project:
     title: Interactive Dashboard of UFO Data
-    link: "#"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-782"
+    tagline: "JavaScript (ES6)"
   - project:
     title: Full Stack Web App to Visualize Data
-    link: "#"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-783"
+    tagline: "Flask // SQL Alchemy // SQL // Pandas // Python // Matplotlib/Seaborn // Heroku // HTML/CSS/Bootstrap // Javascript"
   - project:
     title: Data-Driven Journalism
-    link: "#"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-784"
+    tagline: "Javascript // d3"
   - project:
     title: Analyzing 26 Episodes of The Simpsons Using Natural Language Processing (NLP)
-    link: "#"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-786"
+    tagline: "Pandas // Python // NLTK // Heroku // JavaScript // Plotly"
   - project:
     title: Web Scraping Using Beautiful Soup, Pandas and Requests.
-    link: "#"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-787"
+    tagline: "Beautiful Soup // Pandas // Python"
   - project:
     title: Titanic Data Analysis (from Kaggle)
-    link: "#"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-788"
+    tagline: "Python // Pandas // Matplotlib/Seaborn"
   - project:
     title: Tell Me Something About The Weather (Python Twitter Bot)
-    link: "#"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    link: "http://bit.ly/gta-789"
+    tagline: "Python // Pandas // Tweepy // API Calls"
   - project:
     title: "Increasing Production Rates Within the SCAQMD’s Permitting Process Part I: The Current State of Affairs"
-    link: "#"
+    link: "http://bit.ly/gta-792"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: "Increasing Production Rates Within the SCAQMD’s Permitting Process, Part II: A Process-Improvement Case Study"
-    link: "#"
+    link: "http://bit.ly/gta-793"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-  - project:
-    title: K-Means Clustering of 3,500+ Violations Issued by the South Coast Air Quality Management District (SCAQMD)
-    link: "#"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+
