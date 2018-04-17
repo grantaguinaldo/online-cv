@@ -1,18 +1,18 @@
 - skill:
-  name: Python // Pandas // SK Learn
-  level: 98%
+  name: Python
+  level: 95%
 - skill:
   name: Javascript
-  level: 98%
+  level: 60%
 - skill:
   name: Flask
-  level: 98%
+  level: 85%
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: HTML/CSS/Bootstrap
+  level: 70%
 - skill:
   name: Webscraping
   level: 85%
 - skill:
   name: SQL
-  level: 60%
+  level: 80%
