@@ -1,23 +1,82 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-  - project:
-    title: DevStudio
+    title: Extracting Insights From Kickstarter Data
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
-    title: Tempo
+    title: Analyzing Nearly 1MM Rows of Data Using Excel VBA
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
-    title: Atom
+    title: Data Analysis Using Pure Python
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
-    title: Delta
+    title: Data Analysis Using Pandas & Python
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Analysis of Ride Sharing Data
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Charting Global Weather Patterns From Data Obtained from an API
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Using Python To Analyze Sentiment Of Twitter Feeds
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Extracting Data From A SQL Database
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: SQL/Flask Data Integration Project
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Project Mars
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Interactive Dashboard of UFO Data
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Full Stack Web App to Visualize Data
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Data-Driven Journalism
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Analyzing 26 Episodes of The Simpsons Using Natural Language Processing (NLP)
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Web Scraping Using Beautiful Soup, Pandas and Requests.
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Titanic Data Analysis (from Kaggle)
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: Tell Me Something About The Weather (Python Twitter Bot)
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: "Increasing Production Rates Within the SCAQMD’s Permitting Process Part I: The Current State of Affairs"
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: "Increasing Production Rates Within the SCAQMD’s Permitting Process, Part II: A Process-Improvement Case Study"
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  - project:
+    title: K-Means Clustering of 3,500+ Violations Issued by the South Coast Air Quality Management District (SCAQMD)
+    link: "#"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
