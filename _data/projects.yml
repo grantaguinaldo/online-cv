@@ -2,7 +2,7 @@ intro: "This is a list of all of the data-related, programming and/or product-im
 projects:
   - project:
     title: Extracting Insights From Kickstarter Data
-    link: "bit.ly/gta-771"
+    link: "http://bit.ly/gta-771"
     tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
   - project:
     title: Analyzing Nearly 1MM Rows of Data Using Excel VBA
