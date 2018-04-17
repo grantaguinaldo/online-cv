@@ -3,43 +3,43 @@ projects:
   - project:
     title: "K-Means Clustering of 3,500+ Violations Issued by the South Coast Air Quality Management District (SCAQMD)"
     link: "http://bit.ly/2H7SXna"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    tagline: "This project used k-means clustering to analyze more than 3,500 rows of text data realted to violations issued by the South Coast Air Quality Management District.
     <br><br>
     Sci-Kit Learn // Python // Pandas // Jupyter Notebook // Matplotlib/Seaborn"
   - project:
     title: Extracting Insights From Kickstarter Data
     link: "http://bit.ly/gta-771"
-    tagline: "Using Excel, key insights was extracted from a Kickstarter dataset as it realtes to the types of projects that are most funded.
+    tagline: "Key insights was extracted from a Kickstarter dataset of more than 4,000 rows as it relates to the types of projects that are most funded on the platform.
     <br><br>
     Excel"
   - project:
-    title: Analyzing Nearly 1MM Rows of Data Using Excel VBA
+    title: Analyzing More Than 350,000 Rows of Data Using Excel VBA
     link: "http://bit.ly/gta-772"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    tagline: "A VBA script to summarize data related to more than 350,000 opening and closing stock prices.
     <br><br>
     Excel // Excel VBA"
   - project:
     title: Data Analysis Using Pure Python
     link: "http://bit.ly/gta-773"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    tagline: "An analysis of a dataset of more than 800,000 rows related to banking and voter data using pure Python.
     <br><br>
     Python"
   - project:
     title: Data Analysis Using Pandas & Python
     link: "http://bit.ly/gta-774"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    tagline: "An analysis of a dataset of more than 39,000 rows of data related elementary school performance, budgets and spending by each school in a school district.
     <br><br>
     Panda // Python"
   - project:
     title: Analysis of Ride Sharing Data
     link: "http://bit.ly/gta-775"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    tagline: "An analysis into more than 2,000 rows data ride sharing data.
     <br><br>
     Pandas // Python // Matplotlib/Seaborn"
   - project:
     title: Charting Global Weather Patterns From Data Obtained from an API
     link: "http://bit.ly/gta-776"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    tagline: "An analysis into how global weather patterns change at 500 cities in the world as a function of distance from the equator.
     <br><br>
     Python // Pandas // API Calls"
   - project:
