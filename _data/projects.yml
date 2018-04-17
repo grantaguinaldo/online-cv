@@ -71,7 +71,9 @@ projects:
   - project:
     title: Tell Me Something About The Weather (Python Twitter Bot)
     link: "http://bit.ly/gta-789"
-    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus. || Python // Pandas // Tweepy // API Calls"
+    tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      <br> <br>
+      Python // Pandas // Tweepy // API Calls"
   - project:
     title: "Increasing Production Rates Within the SCAQMD’s Permitting Process Part I: The Current State of Affairs"
     link: "http://bit.ly/gta-792"
