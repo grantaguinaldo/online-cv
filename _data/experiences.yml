@@ -2,35 +2,28 @@
   role: Principal
   time: 2014 - Present
   company: Envera Consulting, South Pasadena
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: "Applied Python/Pandas/SQL/Excel to understand, and analyze client data sets as it relates to environmental compliance.
+  <br><br>
+            Translated complex to environmental compliance regulations to staff at all levels (from front-line staff up to and including executive management/ external counsel).
+            <br><br>
+            Worked with manufacturing clients to identify environmental issues, analyze data, develop, recommend, and implement solutions.
+"
 - experience:
   role: Environmental Engineer/Manager
   time: 2011 - 2014
   company: Lunday-Thagard Company, South Gate, CA
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: "Managed multimedia environmental affairs for a refinery, a marine bulk terminal and a crude oil pipeline.<br><br>
+Used strong negotiation and interpersonal skills to persuade and influence refinery staff with divergent opinions toward consensus in complex environmental compliance matters.  Communicated with regulatory agency staff during pubic rulemaking sessions, and facility inspections.<br><br>
+Analyzed datasets from various parts of the business (i.e., operations, productions, finance) as it relates to current and pending environmental regulations, and proposed/implemented strategies to achieve compliance. Maintained a big-picture mindset while solving compliance/regulatory problems at a variety of levels.  Promoted from Environmental Engineer during 4/2013.
+"
 - experience:
   role: Environmental Engineer
   time: 2009 - 2011
   company: Yorke Engineering, LLC, San Juan Capistrano, CA
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  details: "Assisted manufacturing clients with understanding and implementing strategies for complying with complex environmental and air quality regulations.  Drafted and presented technical reports of the same."
+
+- experience:
+  role: Air Quality Scientist
+  time: 2008 - 2009
+  company: Science Applications International Corporation, Pasadena, CA
+  details: "Managed six air quality monitors, analyzed/reduced time-series data and prepared technical reports from an ambient air quality monitoring network in the Ports of Los Angeles and Long Beach."
